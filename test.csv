@@ -1,0 +1,4 @@
+"col0","s","sl"
+"ch.qos.logback.classic.Logger","logger","AppTest:17[3-8]"
+"java.io.PrintStream","System.out","App:11[9-18]"
+"org.slf4j.LoggerFactory","LoggerFactory","AppTest:16[21-33]"
